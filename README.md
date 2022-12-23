@@ -24,8 +24,10 @@
         ├── models                   # prediction models  and categories for create model input
         ├── schemas                  # Structure classes for data preprocesing, model predict   
         ├── utils                    # Utility classes or functions like: conversors, file manager and others  
+        ├── Dockerfile               # Dockerfile to deploy api
         ├── main.py
         └── requirements.txt 
+
     ├── Notebook                     # Global folder for data analitic and training models
         ├── data          
              └──dataset_SCL.csv
